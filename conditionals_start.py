@@ -1,7 +1,7 @@
 # exemplo condicoes
 
 def main():
-    x, y = 100, 100
+    x, y = 100, 90
 
     # conditional flow uses if, elif, else
     if(x < y):
